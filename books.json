@@ -1,0 +1,45 @@
+{
+  "books":
+  [
+    {
+    "title":"Fahremtheit 451",
+    "author":"Ray Bradbury"
+    "coverImage":"000",
+    "summary":"000"
+    "reviews":
+    [
+      "firstReview":"000",
+      "secondReview":"000",
+      "thirdReview":"000"
+    ]
+  ]
+ },
+  [
+    {
+    "title":"Fahremtheit 451",
+    "author":"Ray Bradbury"
+    "coverImage":"000",
+    "summary":"000"
+    "reviews":
+    [
+      "firstReview":"000",
+      "secondReview":"000",
+      "thirdReview":"000"
+    ]
+  ]
+},
+[
+  {
+  "title":"Fahremtheit 451",
+  "author":"Ray Bradbury"
+  "coverImage":"000",
+  "summary":"000"
+  "reviews":
+  [
+    "firstReview":"000",
+    "secondReview":"000",
+    "thirdReview":"000"
+  ]
+]
+},
+}
